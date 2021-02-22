@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 const examples = () => {
   return (
   <Layout>
-    <h1>This is the examples page</h1>
+    <p>This is the examples page</p>
     <Header />
     <HeaderStatic />
   </Layout>
