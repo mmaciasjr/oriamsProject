@@ -1,6 +1,6 @@
 import React from "react"
 
-const images = () => {
+const Images = () => {
   return <div>Welcome to my images</div>
 }
 
